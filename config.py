@@ -1,0 +1,1 @@
+vk_api_token = "someGRECHKAtoday"
